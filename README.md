@@ -1,4 +1,4 @@
-Why Are Some Bugs Non-Reproducible? –An Empirical Investigation using Data Fusion-
+Why Are Some Bugs Non-Reproducible? An Empirical Investigation using Data Fusion
 ----------------------------------------------------------------------------------
 
 **Abstract**: Software developers attempt to reproduce software bugs to understand their erroneous 
@@ -19,19 +19,19 @@ Subject Systems
 ---------------------------
 - Mozilla Firefox (250)
 - Eclipse JDT (326)
------------------------------
+
 **Total: 576**
 
 Materials Included
 -----------------------------
-- ```Grounded Theory```
- - **Firefox Core**: Open Coding, Axial Coding 
- - **Eclipse JDT**: Open Coding, Axial Coding
- - **Combined:** Selective Coding
- - **Combined:** Key Factors
-- ```Developer Study```
- - Raw responses from the developers
- - Agreed + Disagreed responses
+- **```Grounded Theory```** contains all the artifacts generated during our empiricial study
+  - **Firefox Core**: Open Coding, Axial Coding 
+  - **Eclipse JDT**: Open Coding, Axial Coding
+  - **Combined:** Selective Coding
+  - **Combined:** Key Factors
+- **```Developer Study```** contains all the artifacts generated during our developer study
+  - Raw responses from the developers
+  - Agreed + Disagreed responses
 - README
 - LICENSE
 
