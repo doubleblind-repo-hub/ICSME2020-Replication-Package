@@ -1,0 +1,101 @@
+Total keys:244
+-------------------------
+Axial categories: 17
+=========================
+
+already-fixed-bug	86
+duplicate-bug	6
+
+did-not-happen-anymore	60
+intermittent-failure	32
+temporary-glitch	8
+
+crash-failure	52
+test-failure	25
+
+wrong-specs-defined	7
+blamed-wrong-component	6
+defined	3
+wrong-specs	3
+not-explained	4
+
+performance-issue	20
+performance-bug	5
+regression	5
+
+not-FF-issue	3
+os-related-issue	2
+driver-related-bug	1
+
+closed-by-reporter	11
+filed-as-new-bug	2
+
+FF-local-storage-issue	10
+memory-related-issue	4
+out-of-memory-issue	2
+race-conditions	1
+
+not-a-bug	8
+config-issue	7
+simple-tweak-works	2
+knowledge-dissermination	3
+knowledge-dissemination	1
+
+incomplete-S2R	4
+need-more-info	1
+
+video-player-issue	8
+autoplay-related-issue	3
+video-related-issue	2
+audio-related-issue	4
+
+rendering-issue	8
+svg-related-issue	6
+rendering-related-issue	5
+full-screen-related-issue	4
+inter-letter-distance-issue	2
+svg-loading-issue	2
+overlay-issue	2
+page-loading	2
+font-related-issue	4
+font-garbled-issue	1
+text-alignment-issue	1
+visual-glitch-issue	1
+animation-related-issue	1
+
+dropdown-related-issue	5
+scrolling-related-issue	5
+keyboard-input-handling-issue	3
+text-field-related-issue	2
+
+map-related-issue	5
+zooming-issue	2
+
+certificate-related-isssue	5
+SSL-related-issue	4
+login-related-issue	4
+content-security-issue	2
+caused-by-antivirus	2
+CORS-issue	2
+security-related-bug	1
+
+disability-access-issue	3
+touch-screen-issue	2
+cursor-related-issue	2
+multi-touch-issue	1
+
+tab-related-issue	3
+websites-blocked	3
+DOM-related-issue	2
+time-out-issue	2
+popup-related-issue	2
+css-related-issue	2
+ESR-related-issue	2
+js-error	2
+page-loading-issue	1
+browser-popup-related-issue	1
+browser-launch-issue	1
+test-timeout-issue	1
+
+
+

@@ -1,0 +1,22 @@
+F1 (Bug Duplication):   already-fixed-bug	duplicate-bug	already-fixed-bug	fixed-by-new-release	fixed-by-installation	fixed-by-release	duplicate-bug	fixed-by-evolution	eclipse-installation-issue	old-bug
+F2 (False Positive Bug):  not-a-bug	config-issue	simple-tweak-works	knowledge-dissermination	knowledge-dissemination	not-a-bug	config-issue	project-config-issue	warning-message	discussion-about-feature	design-choice	nullable-issue	black-background
+F3 (Bug Intermittency): 	did-not-happen-anymore	intermittent-failure	temporary-glitch	intermittent-bug	temporary-glitch	did-not-happen-anymore	
+F4 (Missing Information):	incomplete-S2R	need-more-info	s2r-missing	missing-info	testcase-expected	reopen-with-s2r	stacktrace-expected	s2r-not-sufficient	screenshot-expected	
+F5 (Ambiguous Specifications): 	wrong-specs-defined	blamed-wrong-component	wrong-specs-defined	not-explained	disagreement-reporter-developer	wrong-specs-defined	no-more-feedback	not-explained	
+F6 (Performance Regression):	performance-issue	performance-bug	regression	performance-issue	performance-regression	
+F7 (Lack of Cooperation):	closed-by-reporter	filed-as-new-bug	closed-by-reporter	closed-by-genie filed-as-a-new-bug	moved-to-elsewhere							
+F8 (Memory Misuse):	FF-local-storage-issue	memory-related-issue	out-of-memory-issue	race-conditions	out-of-memory-issue
+F9 (Third-Party Defects):	not-FF-issue	os-related-issue	driver-related-bug	caused-by-third-party	third-party-issue
+F10 (Restricted Security Access):	certificate-related-isssue	SSL-related-issue	login-related-issue	content-security-issue	caused-by-antivirus	CORS-issue	security-related-bug
+F11 (Touch & Gestures):	disability-access-issue	touch-screen-issue	cursor-related-issue	multi-touch-issue									
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,201 @@
+Total keys:244
+==========================
+
+%Already-fixed-bug
+already-fixed-bug	86
+duplicate-bug	6
+already-fixed-bug	42s
+fixed-by-new-release	29
+fixed-by-installation	26
+fixed-by-release	14
+duplicate-bug	12
+fixed-by-evolution	7
+eclipse-installation-issue	2
+old-bug	3
+
+%Intermittent-bug
+did-not-happen-anymore	60
+intermittent-failure	32
+temporary-glitch	8
+intermittent-bug	5
+temporary-glitch	3
+did-not-happen-anymore	2
+out-of-memory-issue	2
+
+%wrong-specs-defined
+wrong-specs-defined	7
+blamed-wrong-component	6
+wrong-specs-defined	3
+not-explained	4
+disagreement-reporter-developer	2
+wrong-specs-defined	14
+no-more-feedback	11
+not-explained	10
+
+%third-party-issue
+not-FF-issue	3
+os-related-issue	2
+driver-related-bug	1
+caused-by-third-party	5
+third-party-issue	4
+
+%missing-information
+incomplete-S2R	4
+need-more-info	1
+s2r-missing	32
+missing-info	8
+testcase-expected	7
+reopen-with-s2r	6
+stacktrace-expected	5
+s2r-not-sufficient	3
+screenshot-expected	2
+
+%performance-bug
+performance-issue	20
+performance-bug	5
+regression	5
+performance-issue	6
+performance-regression	2
+
+%memory-access-issue
+FF-local-storage-issue	10
+memory-related-issue	4
+out-of-memory-issue	2
+race-conditions	1
+
+%false-positive-bug
+not-a-bug	8
+config-issue	7
+simple-tweak-works	2
+knowledge-dissermination	3
+knowledge-dissemination	1
+not-a-bug	64
+config-issue	24
+project-config-issue	2
+warning-message	2
+discussion-about-feature	2
+design-choice	2
+nullable-issue	2
+black-background	2
+
+%security-related-issue
+certificate-related-isssue	5
+SSL-related-issue	4
+login-related-issue	4
+content-security-issue	2
+caused-by-antivirus	2
+CORS-issue	2
+security-related-bug	1
+
+%accessibility-related-issue
+disability-access-issue	3
+touch-screen-issue	2
+cursor-related-issue	2
+multi-touch-issue	1
+
+%crash-related-bug
+crash-failure	52
+test-failure	25
+test-failure	11
+junit-related-issue	2
+
+%audio-video-player-issue
+video-player-issue	8
+autoplay-related-issue	3
+video-related-issue	2
+audio-related-issue	4
+
+%rendering-related-issue
+rendering-issue	8
+svg-related-issue	6
+rendering-related-issue	5
+full-screen-related-issue	4
+inter-letter-distance-issue	2
+svg-loading-issue	2
+overlay-issue	2
+page-loading	2
+font-related-issue	4
+font-garbled-issue	1
+text-alignment-issue	1
+visual-glitch-issue	1
+animation-related-issue	1
+map-related-issue	5
+zooming-issue	2
+
+%UI-control-issue
+dropdown-related-issue	5
+scrolling-related-issue	5
+keyboard-input-handling-issue	3
+text-field-related-issue	2
+
+%hang-related-issue
+ide-freeze	16
+eclipse-launching-issue	4
+
+%browser+DOM-related-issue
+tab-related-issue	3
+websites-blocked	3
+DOM-related-issue	2
+time-out-issue	2
+popup-related-issue	2
+css-related-issue	2
+ESR-related-issue	2
+js-error	2
+page-loading-issue	1
+browser-popup-related-issue	1
+browser-launch-issue	1
+test-timeout-issue	1
+
+%coding-assistance-bug
+code-completion-issue	13
+content-assist-issue	7
+code-completion-missing	6
+content-assist-related-issue	3
+quick-fix-issue	2
+code-recommender-issue	2
+quick-fix-not-working	2
+method-definition-click	4
+eclipse-search-issue	3
+code-folding-issue	2
+code-formatting-issue	2
+
+%refactoring-related-bug
+refactoring-related-issue	10
+move-method-issue	4
+refactoring-not-working	4
+
+%type-resolution-issue
+type-resolution-issue	6
+compilation-issue	5
+lambda-related-issue	5
+import-statement-issue	2
+
+%build-related-issue
+build-related-issue	4
+buildpath-related-issue	4
+JRE-not-found	3
+jdk-compliance-issue	2
+java-migration-issue	2
+
+%save-related-issue
+save-failed	2
+preference-not-saved	2
+missing-icon	2
+copy-paste-issue	4
+tab-related-issue	2
+popup-issue	2
+
+%no-developer-involvement
+closed-by-reporter	11
+filed-as-new-bug	2
+closed-by-reporter	6
+closed-by-genie	2
+filed-as-a-new-bug	3
+moved-to-elsewhere	2
+
+
+
+
+
+
+

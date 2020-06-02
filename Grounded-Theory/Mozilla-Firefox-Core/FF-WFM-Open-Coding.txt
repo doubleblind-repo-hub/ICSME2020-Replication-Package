@@ -1,0 +1,250 @@
+1458424		intermittent-failure	0.002 failures/push by robot	test-failure				
+1548849		crash-failure	regression	steps wanted	no-further-crash-reported	repo-missing		
+1455518		tab-resize-issue	hardware related bug	already-fixed-bug	Mozregression-not-accurate	did-not-happen-anymore		
+1507912		intermittent-failure	0.001 failures/push by robot	already-fixed-bug	negative-heap-unclassified	memory-usage-issue		
+1428773		already-fixed-bug	duplicate-bug	rendering-issue	tab-related-issue			
+1491414		crash-failure	did-not-happen-anymore					
+1461831		did-not-happen-anymore	intermittent-failure	game-related-issue				
+1491310		not-explained	closed-by-reporter	crash-failure				
+1491663		did-not-happen-anymore	crash-failure					
+1519098		inconsistent evidence	closed-by-reporter	performance-issue				
+1582380		incomplete-S2R	wrong-specs-defined	partial call				
+1484893		regression	low-spec-hardware	full-screen-related-issue				
+1504059		did-not-happen-anymore	wrong-specs defined	blamed-wrong-component	performance-issue			
+1524798		intermittent-failure	did-not-happen-anymore	crash-failure	already-fixed-bug			
+1595391		incomplete-S2R	knowledge-dissermination	site-exception-addition-issue				
+1497737		wrong-specs-defined	knowledge-dissermination	video-player-issue	autoplay-related-issue			
+1431851		feature-request	blamed-wrong-component	video-player-issue	codec--issue			
+1481322		incomplete-S2R	did-not-happen-anymore	video-player-issue	autoplay-related-issue			
+1514543		already-fixed-bug	video-player-issue	performance-issue				
+1477421		wrong-specs-defined	video-player-issue	autoplay-related-issue				
+1530018		already-fixed-bug	window-screen-issue					
+1536678		already-fixed-bug	performance-bug	external-monitor-issue				
+1556218		did-not-happen-anymore	driver-related-bug	popup-related-issue				
+1511776		already-fixed-bug	file-upload-issue					
+1523560		already-fixed-bug	cursor-related-issue					
+1446629		did-not-happen-anymore	browser-size-small					
+1456970		cannot-reproduce	not-explained	dropdown-related-issue				
+1435134		already-fixed-bug	auto-scrolling-issue	dropdown-related-issue				
+1441899		already-fixed-bug	maximize-button-issue	full-screen-related-issue				
+1457726		already-fixed-bug	touch-screen-issue	performance-issue				
+1435151		intermittent-failure	crash-failure					
+1559473		already-fixed-bug	duplicate-bug	performance-issue	image-panning			
+1521498		did-not-happen-anymore	crash-failure					
+1506668		intermittent-failure	did-not-happen-anymore	window-flashing-issue				
+1495654		moved-to-other-component	video-rendering-issue					
+1502608		closed-by-reporter	performance-bug					
+1504348		cannot-reproduce	closed-by-reporter	overlay-issue	rendering-issue			
+1466142		cannot-reproduce	accurate-hardware-missing	performance-issue	video-player-issue			
+1448345		cannot-reproduce	did-not-happen-anymore	already-fixed-bug	rendering-issue			
+1430604		not-a-bug	knowledge-dissermination	performance-issue				
+1518849		did-not-happen-anymore	crash-failure	test-failure				
+1547808		intermittent-failure	test-failure					
+1543495		already-fixed-bug	crash-failure					
+1463823		did-not-happen-anymore	crash-failure					
+1439217		cannot-reproduce	bitmap-image-issue					
+1469982		cannot-reproduce	math-format-issue					
+1502663		wrong-specs defined	DOM-related-issue					
+1560377		did-not-happen-anymore	already-fixed-bug	crash-failure				
+1440515		cannot-reproduce	already-fixed-bug	JS-object-issue				
+1477439		cannot-reproduce	need-more-info	full-screen-related-issue	youtube-videos			
+1491107		too-small-to-worry-about	crash-failure					
+1438312		cannot-reproduce	test-failure					
+1545981		intermittent-failure	already-fixed-bug	regression	test-failure			
+1535260		did-not-happen-anymore	js-error					
+1507461		intermittent-failure	inconsistent-logs and signatures	crash-failure				
+1452586		cannot-reproduce	bug-not-reported-to-crash	intermittent-failure	crash-failure			
+1530345		cannot-reproduce	already-fixed-bug	inconsistent-prediction-by-tools	test-failure			
+1479691		corrupted-cache	did-not-happen-anymore	new-release-coming-soon	crash-failure			
+1454654		incomplete-S2R	blamed-wrong-component	profile-related-issue	performance-issue			
+1432632		did-not-happen-anymore	crash-failure					
+1557813		not-explained	scrolling-related-issue					
+1461246		already-fixed-bug	blamed-wrong-component	scrolling-related-issue				
+1450741		cannot-reproduce	closed-by-reporter	scrolling-related-issue	map-related-issue			
+1538131		os-related-issue	blamed-wrong-component	window-content-smaller				
+1516929		amazon-JS-issue	already-fixed-bug	amazon-cart-missing				
+1435945		cannot-reproduce	possibly-race-condition	hundreds-of-tooltips	tool-tip-related-issue			
+1555457		cannot-reproduce	intermittent-failure	test-failure				
+1450738		did-not-happen-anymore	test-failure					
+1471099		cannot-reproduce	already-fixed-bug	subtle-performance-issue	scrolling-related-issue			
+1477794		cannot-reproduce	already-fixed-bug	google-map-control-invisible	map-related-issue			
+1538563		intermittent-failure	crash-failure					
+1542096		intermittent-failure	duplicate-bug	already-fixed-bug	did-not-happen-anymore	test-failure		
+1461018		did-not-happen-anymore	page-loading					
+1595937		blamed-wrong-component	network-config-issue	download-speed-issue				
+1546428		not-explained	cancelling-network-request	network-request-issue				
+1561665		already-fixed-bug	proxy-caused-network-stall	performance-issue				
+1594272		did-not-happen-anymore	login-related-issue					
+1509540		did-not-happen-anymore	temporary-glitch	encryption-support-not-enabled	encryption-related-issue			
+1560723		cannot-reproduce	temporary-glitch	login-related-issue				
+1491918		cannot-reproduce	image-dragging-issue					
+1432514		already-fixed-bug	css-related-issue					
+1493381		did-not-happen-anymore	crash-failure					
+1516821		calc-issues	wrong-specs-defined					
+1544738		intermittent-failure	crash-failure					
+1485402		already-fixed-bug	performance-bug	performance-issue	svg-rendering			
+1518238		did-not-happen-anymore	crash-failure					
+1448868		rust-compilation-issue	hard-to-triage	lack-of-available-resource	out-of-memory-issue	complement-crash-signature-of-OOM	different-bugs-with-similar-signature	carsh-failure
+1515393		did-not-happen-anymore	crash-failure					
+1577665		knowledge-dissemination	css-related-issue					
+1466441		cannot-reproduce	filed-as-new-bug	race-conditions				
+1559373		filed-as-new-bug						
+1474206		config-issue	cannot-reproduce	TLS-handshake	performance-issue			
+1434749		certificate-related-isssue	clear-the-profile	websites-blocked				
+1590236		cannot-reproduce	closed-by-reporter	websites-blocked				
+1599810		caused-by-antivirus	TLS-handshake-issue					
+1464085		intermittent-failure	did-not-happen-anymore	js-error				
+1582926		certificate-related-isssue	SSL-related-issue					
+1441194		wrong-specs defined	certificate-related-isssue	SSL-related-issue				
+1444194		certificate-related-isssue	config-issue	SSL-related-issue	performance-issue			
+1504783		certificate-related-isssue	caused-by-antivirus	websites-blocked				
+1427541		closed-by-reporter	duplicate-bug	high-CPU-usage-issue				
+1563974		closed-by-reporter	download-related-issue	caused-by-dll	crash-failure			
+1501448		memory-consumption-issue	cannot-reproduce	memory-related-issue				
+1581538		closed-by-reporter	temporary-glitch	performance-issue				
+1547806		cannot-reproduce	already-fixed-bug	video-player-issue				
+1472519		closed-by-reporter	path-related-issue	c-compiler-failure				
+1428359		closed-by-reporter	slow-internet-modem	performance-issue	website-loading-issue			
+1486890		already-fixed-bug	cannot-reproduce	browser-opening-issue				
+1452349		intermittent-failure	crash-failure					
+1440903		intermittent-failure	out-of-memory-issue	brokern-stack-traces	memory-related-issue			
+1517585		already-fixed-bug	browser-launch-issue	zomming-issue				
+1561599		duplicate-bug	already-fixed-bug	wrong-icon-issue				
+1478313		already-fixed-bug	performance-bug	brwoser-hang-issue				
+1546435		cannot-reproduce	bounced-back	rendering-issue	HTML-control-display-issue			
+1559687		already-fixed-bug	did-not-happen-anymore	performance-issue				
+1506851		hardware-related-issue	laptop-died	performance-issue	HD-monitor-issue			
+1436688		already-fixed-bug	link-cursor-lost	cursor-related-issue				
+1475654		cannot-reproduce	already-fixed-bug	crash-failure				
+1546938		cannot-reproduce	did-not-happen-anymore	white-page-on-unlocked				
+1436626		cannot-reproduce	mac-OS-related-issue	dropdown-related-issue				
+1532610		already-fixed-bug	cannot-reproduce	crash-failure	NVDIA-related-issue			
+1507070		did-not-happen-anymore	crash-failure					
+1547586		cannot-reproduce	memory-related-issue	legacy-hardware				
+1514229		already-fixed-bug	page-loading-issue					
+1447573		already-fixed-bug	regression					
+1478247		cannot-reproduce	need-login-creds	disability-access-issue				
+1429870		already-fixed-bug	tab-selection-event	tab-selection-issue				
+1516232		did-not-happen-anymore	crash-failure	shutdown-hang				
+1543358		not-a-bug	disability-access-issue	scrolling-related-issue				
+1585989		wrong-specs-defined	not-a-bug	dropdown-related-issue				
+1562995		did-not-happen-anymore	crash-failure					
+1539020		already-fixed-bug	browser-tab-issue	tab-loading-issue				
+1557852		did-not-happen-anymore	not-a-bug	serialization-issue				
+1471750		intermittent-failure	crash-failure					
+1567153		cannot-reproduce	test-failure					
+1557457		already-fixed-bug	config-issue	login-related-issue	SSL-related-issue			
+1477101		already-fixed-bug	tab-switching-issue	tab-related-issue	performance-issue			
+1562199		already-fixed-bug	crash-failure					
+1561155		already-fixed-bug	test-failure					
+1568238		did-not-happen-anymore	crash-failure					
+1456830		already-fixed-bug	rendering-related-issue	map-related-issue				
+1433773		temporary-glitch	test-failure	intermittent-failure				
+1549298		did-not-happen-anymore	crash-failure					
+1463845		intermittent-failure	test-failure					
+1473338		intermittent-failure	test-failure					
+1505973		cannot-reproduce	already-fixed-bug	memory-related-issue				
+1465322		intermittent-failure	test-failure	time-out-issue				
+1466240		intermittent-failure	test-failure	time-out-issue				
+1573514		cannot-reproduce	gaming-related-issue					
+1514548		already-fixed-bug	rendering-related-issue					
+1548029		did-not-happen-anymore	crash-failure					
+1432197		did-not-happen-anymore	intermittent-failure	crash-failure				
+1435152		temporary-glitch	intermittent-failure	bytes-leaked				
+1427586		already-fixed-bug	intermittent-failure	rendering-issue	white-flashing			
+1567737		did-not-happen-anymore	already-fixed-bug	crash-failure				
+1472072		already-fixed-bug	rendering-related-issue					
+1454966		did-not-happen-anymore	crash-failure					
+1444879		did-not-happen-anymore	crash-failure					
+1477444		did-not-happen-anymore	feature-toggle-fixed-issue	crash-failure				
+1498910		did-not-happen-anymore	crash-failure	rendering-issue				
+1500870		already-fixed-bug	crash-failure	Google-hangout-issue	audio-related-issue			
+1454044		cannot-reproduce	audio-related-issue					
+1501745		cannot-reproduce	already-fixed-bug	audio-related-issue				
+1515568		did-not-happen-anymore	audio-related-issue	video-related-issue				
+1518198		did-not-happen-anymore	crash-failure					
+1470854		did-not-happen-anymore	screen-capture-issue	performance-issue				
+1492038		apple-encoder-issue	cisco-workaround	bug-fixed-with-deliberation	video-related-issue			
+1469319		stale-version-issue	camera-capture-issue					
+1442539		cannot-reproduce	camera-related-issue	regression				
+1427890		cannot-reproduce	os-related-issue	not-FF-issue				
+1453601		cannot-reproduce	null-pointer-issue	crash-failure				
+1508129		did-not-happen-anymore	crash-failure					
+1454186		did-not-happen-anymore	tab-related-issue					
+1452614		did-not-happen-anymore	crash-failure					
+1453670		cannot-reproduce	did-not-happen-anymore	crash-failure	SEVG-related-issue			
+1461559		cannot-reproduce	transient-bug	font-garbled-issue				
+1467356		cannot-reproduce	image-disappears					
+1438849		cannot-reproduce	did-not-happen-anymore	rendering-issue				
+1427735		already-fixed-bug	rendering-related-issue	google-calendar				
+1449830		performance-bug	page-loading	cannot-reproduce	performance-profile	performance-issue		
+1489828		already-fixed-bug	keyboard-layout-issue	keyboard-input-handling-issue				
+1529216		cannot-reproduce	login-related-issue					
+1524392		no-response-from-reporter	button-click-disabled					
+1478418		not-a-bug	simple-tweak-works	config-issue				
+1438616		not-a-bug	simple-tweak-works	config-issue				
+1524238		cannot-reproduce	temporary-glitch	performance-issue	emoji-related-issue			
+1535600		already-fixed-bug	keyboard-input-handling-issue					
+1588932		cannot-reproduce	missing-test-case	keyboard-input-handling-issue				
+1493772		already-fixed-bug	fixed-through-evolution	disability-access-issue	link-disabled-issue			
+1481400		cannot-reproduce	youtube-video-playing	video-player-issue				
+1468335		cannot-reproduce	website-info-issue					
+1431498		already-fixed-bug	test-suggestion-issue					
+1511215		already-fixed-bug	window-position-issue	affects-only-single-version				
+1512165		crash-failure	third-party-bug	Sogou-related-issue				
+1495938		already-fixed-bug	mouse-detection-issue					
+1563716		cannot-reproduce	visual-glitch-issue					
+1554565		cannot-reproduce	not-a-bug	config-issue	hardware-accelation-enabled	content-vibration-issue		
+1456132		cannot-reproduce	random-wakeup-of-display	wakeup-issue				
+1427554		config-issue	touch-screen-issue	not-FF-issue				
+1449140		already-fixed-bug	rendering-related-issue	brokern-menu-bar				
+1516231		crash-failure	already-fixed-bug	FF-local-storage-issue				
+1534816		FF-local-storage-issue	already-fixed-bug	windows-specific-issue	test-failure			
+1542205		intermittent-failure	test-failure	FF-local-storage-issue	did-not-happen-anymore			
+1540977		crash-failure	did-not-happen-anymore	FF-local-storage-issue				
+1540948		crash-failure	FF-local-storage-issue	did-not-happen-anymore				
+1547404		already-fixed-bug	FF-local-storage-issue					
+1542726		intermittent-failure	already-fixed-bug	FF-local-storage-issue				
+1540966		did-not-happen-anymore	FF-local-storage-issue					
+1555112		did-not-happen-anymore	FF-local-storage-issue					
+1539269		did-not-happen-anymore	FF-local-storage-issue					
+1547516		already-fixed-bug	google-calendar-issue	drag-n-drop-issue				
+1511321		test-failure	test-timeout-issue	already-fixed-bug				
+1560273		already-fixed-bug	window-event-issues					
+1476585		cannot-reproduce	already-fixed-bug	dropdown-related-issue	overlay-issue			
+1539014		already-fixed-bug	double-space-issue	fixed-from-server-side				
+1463354		already-fixed-bug	multi-touch-issue	map-related-issue	zooming-issue			
+1523998		already-fixed-bug	map-related-issue	zooming-issue				
+1436015		cannot-reproduce	full-screen-related-issue	not-a-bug				
+1493098		already-fixed-bug	text-field-related-issue	key-event-issue				
+1485504		already-fixed-bug	DOM-related-issue	crash-failure	screenshot-paste-problem			
+1454147		already-fixed-bug	text-alignment-issue					
+1564435		cannot-reproduce	already-fixed-bug	ESR-related-issue				
+1497089		cannot-reproduce	already-fixed-bug	not-FF-issue	hyphenation-not-working			
+1451345		already-fixed-bug	inter-letter-distance-issue					
+1567322		cannot-reproduce	incorrect-font-issue	google-doc-issue				
+1431380		already-fixed-bug	distored-font-issue	font-related-issue				
+1484593		cannot-reproduce	already-fixed-bug	text-field-related-issue				
+1451266		cannot-reproduce	inter-letter-distance-issue					
+1455628		cannot-reproduce	font-related-issue					
+1435623		cannot-reproduce	temporary-glitch	font-related-issue				
+1591129		intermittent-failure	did-not-happen-anymore	test-failure	browser-popup-related-issue			
+1574842		intermittent-failure	did-not-happen-anymore	test-failure	content-security-issue			
+1523102		temporary-glitch	CORS-issue	parent-child-not-on-same-domain	content-security-issue			
+1526800		cannot-reproduce	CORS-issue	certificate-related-issue	third-party-issue			
+1532740		cannot-reproduce	website-redirect-issue					
+1589553		intermittent-failure	did-not-happen-anymore	test-failure	timeout-issue			
+1578939		intermittent-failure	test-failure	did-not-happen-anymore				
+1432469		already-fixed-bug	popup-related-issue	URI-with-data-not-allowed	company-policy			
+1549376		cannot-reproduce	security-related-bug					
+1463365		cannot-reproduce	wrong-specs-defined	container-related-issue				
+1427593		already-fixed-bug	svg-loading-issue	ESR-related-issue				
+1446984		test-failure	svg-related-issue					
+1524991		already-fixed-bug	svg-loading-issue	animation-related-issue				
+1477543		crash-failure	svg-related-issue					
+1505932		cannot-reproduce	crash-failure	svg-related-issue				
+1429191		test-failure	wrong-specs-defined	already-fixed-bug				
+1547232		already-fixed-bug	font-related-issue	svg-related-issue				
+1455912		already-fixed-bug	svg-related-issue	rendering-issue				
+1462195		svg-rendering-issue	duplicate-bug					
+1512926		already-fixed-bug	svg-related-issue					

@@ -1,0 +1,329 @@
+Open Coding
+===============================
+
+534797		cannot-reproduce	s2r-missing	ide-freeze	hover-over-comment			
+537552		cannot-reproduce	s2r-missing	code-editor-flickering				
+476042		cannot-reproduce	s2r-missing	stacktrace-expected	source-file-destroyed	file-added-to-buildpath		
+526340		already-fixed-bug	duplicate-bug	jar-creation-problem	project-export-problem	java-9-problem		
+478383		cannot-reproduce	s2r-missing	ide-freeze	non-existent-method	compilation-issue		
+534944		cannot-reproduce	refactoring-not-working	messed-up-install				
+460931		cannot-reproduce	s2r-missing	file-content-lost	power-saving-mode			
+549569		cannot-reproduce	s2r-missing	performance-issue	preference-not-respected	auto-completion-proposal		
+479975		cannot-reproduce	s2r-missing	ide-freeze				
+481973		cannot-reproduce	classpath-file-not-created	buildpath-related-issue				
+537243		cannot-reproduce	ide-freeze	hierarchical-package-display	screenshot-expected	already-fixed-bug		
+541682		already-fixed-bug	testcase-expected	incorrect-override-annotation				
+471643		performance-issue	performance-regression	less-VM-used	fixed-in-other-version	jar-creation-delay		
+550105		already-fixed-bug	preview-feature-disabled					
+480033		cannot-reproduce	already-fixed-bug	ide-freeze				
+538995		already-fixed-bug	config-issue	build-related-issue	missing-dependencies			
+461365		cannot-reproduce	s2r-missing	malformed-tree-exception				
+528259		already-fixed-bug	clipboard-copying-issue					
+497175		already-fixed-bug	config-issue	performance-issue	slow-reaction-from-ide			
+546731		already-fixed-bug	unexpected-cursor-icon	cursor-related-issue				
+506321		already-fixed-bug	missing-icon					
+550223		abandoned	hashcode-search-issue					
+535770		cannot-reproduce	annotation-failure					
+539222		cannot-reproduce	screenshot-expected	project-config-issue	release-option-unavailable			
+467641		cannot-reproduce	s2r-missing	corrupted-history				
+545012		cannot-reproduce	s2r-missing	stacktrace-expected	code-navigation-problem	junit-problem		
+547208		cannot-reproduce	extract-interface-issue	refactoring-related-issue				
+476421		cannot-reproduce	linux-issue-only	jdt-fails-with-java8				
+536062		already-fixed-bug	config-issue	keybinding-issue	cannot-type-astreisk			
+545119		cannot-reproduce	auto-build-disabled-issue	inconsistency-among-views				
+499314		already-fixed-bug	refactoring-not-working					
+547439		already-fixed-bug	corrupted-attachment	two-inerfaces-same-name	failed-to-detect-duplications			
+533387		cannot-reproduce	non-Eclipse-problem	number-conversion				
+507010		already-fixed-bug	quick-access-thows -exception					
+536272		duplicate-bug	unicode-support					
+539526		already-fixed-bug	restart-solved-the-issue	resource-related-exception				
+463333		cannot-reproduce	already-fixed-bug	code-completion-missing				
+468570		already-fixed-bug	no-such-method-error					
+499319		did-not-happen-anymore	too-small-to-worry	refactoring-related-issue				
+533389		wrong-specs-defined	misleading-error-message					
+507356		cannot-reproduce	fixed-by-installation	code-completion-missing				
+536330		not-a-bug						
+481362		already-fixed-bug	fixed-by-installation	code-completion-missing				
+530963		already-fixed-bug	refactoring-not-working					
+473174		not-a-bug	config-issue	missing-icon				
+533466		cannot-reproduce	source-compatibility-issue					
+507713		cannot-reproduce	comment-disappearing	moved-to-JDT				
+477124		cannot-reproduce	need-info	eclipse-crash	casused-by-formatting-overwrite			
+536535		cannot-reproduce	s2r-missing	javadoc-location-issue				
+481363		cannot-reproduce	already-fixed-bug	code-completion-missing	substring-completion-missing			
+519358		cannot-reproduce	test-failure					
+464456		already-fixed-bug	javadoc-related-issue	project-config-issue				
+473326		already-fixed-bug	message-event-handle-missing	caused-by-other-OS-processes				
+533511		cannot-reproduce	JDT-build-issue					
+509591		cannot-reproduce	fixed-by-installation	tab-styling-issue				
+513863		cannot-reproduce	renaming-related-issue	lambda-related-issue				
+481591		cannot-reproduce	tab-handling-issue	tab-related-issue				
+540157		cannot-reproduce	s2r-missing	test-treeview-flickering				
+469349		cannot-reproduce	duplicate-bug	swt-exception				
+531117		cannot-reproduce	fixed-by-installation	unexpected-error-markers				
+533716		not-a-bug	make-junit5-default					
+552985		already-fixed-bug	error-warning-display					
+536657		not-a-bug	config-issue					
+540158		cannot-reproduce	s2r-missing	test-stop-button-not-working				
+525850		cannot-reproduce	s2r-missing	newbie-installation-issue				
+545498		cannot-reproduce	project-deletion-not-working					
+531263		already-fixed-bug	duplicate-bug	jdk-compliance-issue				
+473650		wrong-specs-defined	refactoring-not-working	push-down-method-refactoring				
+509999		not-a-bug	ide-freeze					
+514729		cannot-reproduce	fixed-by-installation					
+458211		quick-fix-provided	create-method-proposal-missing					
+540484		cannot-reproduce	mix-of-binary and source pluig-ins					
+464982		cannot-reproduce	already-fixed-bug	package-explorer-display-issue				
+495375		cannot-reproduce	search-scope-issue	result-outside-of-scope				
+469585		cannot-reproduce	test-failure					
+531272		already-fixed-bug	fixed-by-installation	fixed-by-downgrading-to-jdk8				
+473922		wrong-specs-defined	not-a-bug	refactoring-related-issue				
+547586		cannot-reproduce	already-fixed-bug	fixed-by-installation				
+510018		cannot-reproduce	s2r-missing	third-party-issue	ide-freeze			
+478350		cannot-reproduce	already-fixed-bug	internal-error				
+553612		wrong-specs-defined	wrong-icon-display	junit-related-issue				
+536921		already-fixed-bug	ide-launching-issue	junit-related-issue	third-party-issue			
+515475		cannot-reproduce	buildpath-related-issue					
+540717		cannot-reproduce	buildpath-related-issue	drag-and-drop-issue				
+500780		cannot-reproduce	renaming-abstract-class					
+473925		wrong-specs-defined	not-a-bug	refactoring-related-issue	move-method-issue			
+510267		cannot-reproduce	already-fixed-bug	method-definition-click				
+515481		cannot-reproduce	code-completion-issue					
+458958		old-bug	move-method-issue					
+532079		wrong-specs-defined	config-issue	refactoring-related-issue	move-method-issue			
+500844		not-a-bug	config-issue	code-completion-missing				
+474251		feature-removed	not-explained	item-sorting-problem				
+534902		cannot-reproduce	s2r-missing	file-removed-unexpectedly				
+510269		cannot-reproduce	inner-interface-not-visible					
+515741		already-fixed-bug	fixed-with-new-interface					
+459736		cannot-reproduce	save-failed					
+521041		cannot-reproduce	GUI-small	subjective-definition				
+466691		cannot-reproduce	fixed-by-installation	eclipse-launching-issue	font-dialog-open-unexpectedly			
+546344		cannot-reproduce	config-issue	fixed-by-prefs	code-completion-issue			
+532496		cannot-reproduce	fixed-by-installation	package-importing-issue				
+501216		wrong-specs-defined	config-issue	not-a-bug				
+475174		cannot-reproduce	fixed-by-installation	wrong-specs-defined	javadoc-not-opening			
+484454		cannot-reproduce	wrong-specs-defined	method-definition-click				
+521244		not-a-bug	test-setup					
+489107		did-not-happen-anymore	array-out-of-index	code-recommender-issue				
+467074		already-fixed-bug	duplicate-bug	icon-missing				
+527578		cannot-reproduce	 closed-by-reporter	outline-window-issue				
+537637		cannot-reproduce	test-failure	fixed-by-installation				
+484820		cannot-reproduce	fixed-by-installation	cannot-create-new-class				
+467226		cannot-reproduce	partially-reproduce	fixed-by-installation	cannot-start-IE-browser			
+544888		cannot-reproduce	too-much-work	method-definition-click				
+546456		cannot-reproduce	s2r-missing	refactoring-related-issue				
+532835		cannot-reproduce	s2r-missing	testcase-expected	already-fixed-bug	code-drawing-jumps		
+517297		wrong-specs-defined	testcase-expected	wrong-object-type-returned				
+484933		moved-to-elsewhere	test-failure					
+528003		cannot-reproduce	s2r-missing	handler-conflicts				
+471958		cannot-reproduce	already-fixed-bug	fixed-by-installation	refactoring-related-issue			
+535481		not-a-bug	config-issue	method-definition-click	method-reference-issue			
+511621		not-a-bug	fixed-by-other-bugs					
+486360		keep-as-is	toolbar-button-removal					
+546726		duplicate-bug	test-failure	mac-specific-bug				
+532961		cannot-reproduce	import-organization-issue					
+475571		cannot-reproduce	fixed-by-new-release	already-fixed-bug	text-selection-invisible			
+511642		cannot-reproduce	fixed-by-new-release	quick-fix-not-working				
+461742		cannot-reproduce	fixed-by-new-release	dead-code-fix-incorrect				
+533275		not-a-bug	wrong-specs-defined	failure-trace-hidden				
+551345		cannot-reproduce	fixed-by-new-release	test-failure	refactoring-related-issue	patch-diff-added		
+519730		cannot-reproduce	duplicate-bug	import-statement-issue	config-attached	IDE-update-issue		
+500012		not-a-bug	empty-package-discussions					
+499510		cannot-reproduce	method-not-displaying	potential-folding-issue				
+526946		works-for-me	closed-by-reporter	working-set-close-issue				
+467287		cannot-reproduce	duplicate-bug	mouse-hover-issue	popup-issue	button-obstructed	quick-fix-issue	
+552042		not-a-bug	jdt-UI					
+540154		not-a-bug	jdt-UI					
+531041		not-a-bug	jdt-UI					
+487724		not-a-bug	jdt-UI					
+487790		not-a-bug	jdt-UI					
+478261		not-a-bug	jdt-UI					
+519840		not-a-bug	jdt-UI					
+500319		not-a-bug	jdt-UI					
+540114		cannot-reproduce	fixed-by-new-release					
+496338		cannot-reproduce	intermittent-bug	ide-freeze				
+539458		cannot-reproduce	buildpath-related-issue	duplicate-bug				
+525408		cannot-reproduce	not-explained	ide-installation-issue				
+550797		cannot-reproduce	class-files-deleted					
+488128		cannot-reproduce	config-issue	too-many-files-open				
+548525		cannot-reproduce	fixed-by-installation	heap-space-limited	caused-by-code-formatting			
+544825		cannot-reproduce	fixed-by-installation	java-migration-issue	compilation-issue			
+522661		cannot-reproduce	config-issue	java-migration-issue				
+511786		cannot-reproduce	s2r-missing	stacktrace-expected	ide-freeze			
+472692		cannot-reproduce	intermittent-bug	closed-by-genie	type-resolution-issue			
+476659		cannot-reproduce	s2r-missing	self-contained-example-wanted				
+480886		cannot-reproduce	fixed-by-release	type-resolution-issue	NPE	two-bugs-combined		
+487502		cannot-reproduce	not-explained	code-formatting-issue				
+473595		cannot-reproduce	fixed-by-release	fixed-by-installation	cyclic-dependency-error			
+490636		cannot-reproduce	fixed-by-release	build-related-issue	NPE			
+517782		cannot-reproduce	fixed-by-installation	version-dependency-issue				
+486415		cannot-reproduce	not-explained	not-sufficient-info	move-method-issue			
+467297		cannot-reproduce	config-issue	closed-by-genie				
+544939		cannot-reproduce	config-issue	caused-by-other-plugins	NPE	contains-stack-traces		
+472241		cannot-reproduce	missing-info	contains-stack-traces	broken-classpath			
+480726		cannot-reproduce	fixed-by-evolution	lambda-related-issue	NPE			
+518029		cannot-reproduce	missing-info	stacktrace-expected	connected-to-code-recommendation			
+486976		cannot-reproduce	fixed-by-evolution	missing-info				
+506478		cannot-reproduce	not-explained	same-method-in-two-classes	compilation-issue			
+462192		cannot-reproduce	not-a-bug	type-resolution-issue				
+513386		cannot-reproduce	closed-by-reporter	not-explained				
+518624		cannot-reproduce	fixed-by-evolution	type-resolution-issue	eclipse-search-issue			
+487481		cannot-reproduce	fixed-by-evolution	test-failure	test-directory-issue			
+525484		not-a-bug						
+492745		cannot-reproduce	fixed-by-release	module-not-accessible				
+529434		cannot-reproduce	not-a-bug	type-resolution-issue	eclipse-search-issue	reference-search		
+476723		not-a-bug	already-fixed-bug	reference-to-ambiguous-types				
+518958		cannot-reproduce	fixed-by-release	import-statement-issue				
+513422		not-a-bug	design-choice					
+543756		cannot-reproduce	fixed-by-installation	ide-freeze				
+525680		not-a-bug	design-choice	nullable-issue				
+469348		cannot-reproduce	s2r-missing	compilation-related-issue				
+552446		cannot-reproduce	fixed-by-release	whitespace-printing-issue				
+536544		performance-issue	eclipse-search-issue	ide-freeze				
+543977		not-a-bug	api-migration-sanity-check					
+494215		cannot-reproduce	not-explained	javadoc-warning				
+509703		cannot-reproduce	config-issue	jdk-compliance-issue				
+482074		cannot-reproduce	already-fixed-bug	nullable-issue				
+519810		cannot-reproduce	fixed-by-release	file-renaming-issue				
+544095		cannot-reproduce	fixed-by-evolution	fixed-by-merge	number-format-issue			
+494690		cannot-reproduce	fixed-by-installation	fixed-by-release	performance-issue	compilation-error-lag		
+547582		cannot-reproduce	test-failure	out-of-memory-issue				
+553329		not-a-bug						
+482413		cannot-reproduce	formatting-issue					
+487850		not-a-bug	not-explained					
+544240		not-a-bug	wrong-specs-defined					
+482478		cannot-reproduce	filed-as-new-bug	code-completion-missing	test-related-issue			
+544433		not-a-bug	already-existing-feature					
+548338		cannot-reproduce	fixed-by-release	rebuilding-index-eclipse				
+495568		cannot-reproduce	no-more-feedback	code-formatting-issue				
+471282		cannot-reproduce	config-issue	javadoc-formatting-issue				
+545913		not-a-bug	wrong-specs-defined	warning-message				
+537508		not-a-bug	config-issue	warning-message				
+541096		cannot-reproduce	missing-info	unknown-dependency				
+495987		cannot-reproduce	s2r-missing	missing-semicolon				
+549165		cannot-reproduce	problem-solved	patch-added	unsupported-exception-thrown			
+510608		not-a-bug	already-fixed-bug					
+515995		already-fixed-bug	eclipse-index-corrupted					
+460927		cannot-reproduce	no-more-feedback	ide-freeze				
+496053		cannot-reproduce	fixed-by-evolution	module-not-refenced				
+546439		cannot-reproduce	fixed-by-installation	indentation-related-issue				
+510624		cannot-reproduce	incomplete-hierarchy					
+479033		cannot-reproduce	fixed-by-evolution	javadoc-indentation				
+521416		cannot-reproduce	fixed-by-release	performance-issue	ide-freeze			
+527749		cannot-reproduce	missing-info	no-more-feedback				
+501517		not-a-bug	discussion-about-ide					
+475547		not-a-bug	disagreement-with-reporter	data-race	test-failure			
+549187		cannot-reproduce	s2r-missing	NPE	content-assist-related-issue			
+511523		cannot-reproduce	missing-info	stacktrace-expected	provided-traces-not-helpful			
+537990		cannot-reproduce	missing-info					
+460948		not-a-bug	eclipse-download-issue					
+541844		cannot-reproduce	testcase-expected	missing-info	private-code			
+538378		cannot-reproduce	fixed-by-release	testcase-expected				
+542862		not-a-bug	fixed-by-tweaking	backward-compatibility				
+522609		cannot-reproduce	s2r-missing	workspace-state-expected	workspace-not-sufficient	compilation-error		
+544933		cannot-reproduce	test-failure	out-of-memory-issue				
+496789		cannot-reproduce	intermittent-bug	fixed-by-release	build-related-issue			
+503304		cannot-reproduce	intermittent-bug	type-resolution-issue				
+492782		cannot-reproduce	save-failed	lambda-related-issue				
+493965		cannot-reproduce	testcase-expected	class-interface-type-conversion				
+489247		cannot-reproduce	already-fixed-bug	duplicate-bug	error-warning-message			
+528228		cannot-reproduce	fixed-by-release	function-cannot-be-used				
+457685		cannot-reproduce	performance-regression	high-CPU-use				
+498170		not-a-bug	duplicate-bug	margin-related-issue				
+458853		cannot-reproduce	fixed-by-new-release	fixed-by-installation	lambda-related-issue	content-assist-fails		
+532982		cannot-reproduce	fixed-by-new-release	content-assist-issue	black-background	parameter-suggestion		
+543069		cannot-reproduce	fixed-by-new-release	copy-paste-issue				
+522720		cannot-reproduce	fixed-by-new-release	corrupted-registry	content-assist-related-issue	number-format-exception		
+480795		cannot-reproduce	fixed-by-new-release	refactoring-related-issue	synchronized-method			
+487332		not-a-bug	user-guide-issue					
+472958		filed-as-a-new-bug						
+456783		cannot-reproduce	s2r-missing	ide-freeze	code-completion-issue			
+545229		cannot-reproduce	not-fixed	code-completion-issue	put-vs-compute	closed-rudely	affected-by-external-plugins	
+473024		cannot-reproduce	fixed-by-release	not-working-in-all-windows	content-assist-related-issue	black-background		
+457213		cannot-reproduce	not-a-bug	config-issue				
+468919		old-bug	fixed-by-new-release	marker-utility-issue				
+477898		cannot-reproduce	s2r-missing	testcase-expected	autocomplete-failed			
+547556		cannot-reproduce	config-missing	s2r-does-not-work				
+478246		cannot-reproduce	code-completion-issue					
+464850		filed-as-a-new-bug	problem-reproduced	non-cooperative-developer	preference-not-saved			
+469364		cannot-reproduce	caused-by-third-party	not-a-bug	save-action-problem			
+536786		cannot-reproduce	code-folding-issue	moved-to-UI				
+519880		cannot-reproduce	code-completion-issue	s2r-missing	reopen-with-s2r			
+495510		cannot-reproduce	java-syntax-highlighting	reopen-with-s2r				
+545630		cannot-reproduce	sysout-shortcut	third-party-issue				
+540931		cannot-reproduce	trailing-whitespace-issue	possible-regression	reopen-with-s2r			
+520070		cannot-reproduce	fixed-by-new-release	tooltip-black-background	settings-not-saved			
+465650		cannot-reproduce	not-a-bug	config-issue	popup-issue	popup-background		
+544481		cannot-reproduce	tab-related-issue	tab-replaced-with-space				
+526514		cannot-reproduce	fixed-by-new-release	content-assist-issue				
+478593		cannot-reproduce	NPE	reopen-with-s2r	compilation-issue			
+544680		cannot-reproduce	fixed-by-new-release	line-number-hidden	refactoring-related-issue			
+471392		cannot-reproduce	fixed-by-installation	preference-not-saved	java-formatting-profile			
+478594		cannot-reproduce	s2r-missing	reopen-with-s2r	compilation-issue			
+541280		cannot-reproduce	fixed-by-new-release	content-assist-issue	caused-by-mylyn	third-party-issue		
+471617		cannot-reproduce	no-more-occurrence	content-assist-issue	NPE			
+501488		cannot-reproduce	intermittent-bug	code-folding-issue				
+475299		cannot-reproduce	caused-by-third-party	code-recommender-issue	code-completion-issue			
+535016		cannot-reproduce	caused-by-third-party	code-completion-issue				
+516006		cannot-reproduce	caused-by-third-party	code-completion-issue	wrong-first-suggestion	bug-possibly-not-solved		
+489184		cannot-reproduce	not-explained	code-completion-issue				
+535304		cannot-reproduce	corrupt-plugins	copy-paste-issue				
+544906		cannot-reproduce	not-explained	fixed-by-new-release	quick-outline-support			
+546574		cannot-reproduce	caused-by-third-party	code-completion-issue	irrelevant-completion-proposal			
+475549		no-human-involved						
+517500		cannot-reproduce	bad-new-feature	breaks-existing-feature	copy-paste-issue			
+528438		cannot-reproduce	s2r-missing	toString-method-failure				
+547445		cannot-reproduce	fixed-by-new-release	quick-fix-not-working	resize-not-remembered			
+543686		not-a-bug	config-issue	config-hidden	code-completion-issue			
+545237		cannot-reproduce	wrong-date	reopen-with-s2r				
+457577		cannot-reproduce	config-issue	code-cleanup-profile				
+545474		cannot-reproduce	fixed-by-installation	content-assist-issue	favorites-reset-on-ide-restart			
+514549		cannot-reproduce	code-completion-issue	s2r-missing	no-more-feedback			
+479439		cannot-reproduce	import-lines-not-shown	disagreement-reporter-developer	no-more-feedback			
+467277		cannot-reproduce	fixed-by-reporter	random-jump-of-cursor				
+535760		cannot-reproduce	fixed-by-new-release	disagreement-reporter-developer	print-margin-with-java-file-issue			
+521741		cannot-reproduce	fixed-by-new-release	folding-preference-issue	folding-inner-types-issue			
+492140		not-a-bug	already-fixed-bug	copy-paste-issue				
+518602		not-a-bug	out-of-focus					
+543391		not-a-bug	content-assist-issue					
+545515		not-a-bug	variable-occurrence-highlight-issue					
+482626		not-a-bug	quick-fix-issue					
+532864		not-a-bug	folding-settings					
+499664		old-bug	caused-by-outlines					
+525831		filed-as-a-new-bug	fixed-by-new-release	config-issue	build-related-issue			
+525489		not-a-bug	config-issue	eclipse-installation-issue				
+464560		cannot-reproduce	ide-freeze	switching-views-during-debugging				
+491981		cannot-reproduce	no-more-feedback	reference-to-wrong-jars	s2r-not-sufficient			
+512167		cannot-reproduce	s2r-missing	no-more-feedback	variable-value-not-shown	debugging-issue		
+543086		not-a-bug	content-assist-issue	popup-at-wrong-place	clarification-purpose			
+492361		cannot-reproduce	s2r-not-sufficient	source-loopup-not-working				
+529281		cannot-reproduce	fixed-by-new-release	sql-time-class-not-found				
+513392		cannot-reproduce	fixed-by-new-release	breakpoint-not-respected				
+463869		cannot-reproduce	temporary-connection-problem	connection-between-debugger-and-VM	socket-exception			
+499352		cannot-reproduce	fixed-by-new-release	fixed-by-installation	JRE-not-found			
+545242		cannot-reproduce	fixed-by-new-release	JRE-not-found				
+547543		cannot-reproduce	temporary-glitch	lambda-related-issue				
+457943		cannot-reproduce	no-more-feedback	popup-disappears-unexpectedly				
+534483		cannot-reproduce	s2r-not-sufficient	no-more-feedback	toString-not-generated			
+526063		cannot-reproduce	non-deterministic-error	config-issue	JRE-not-found			
+488108		cannot-reproduce	fixed-by-new-release	debugging-window-disappears				
+469895		not-a-bug	discussion-about-feature	JRE-container-issue				
+531572		cannot-reproduce	fixed-by-new-release	eclipse-launching-issue	NPE			
+534810		cannot-reproduce	fixed-by-new-release	eclipse-launching-issue				
+515638		cannot-reproduce	fixed-by-installation	eclipse-launching-issue				
+488918		cannot-reproduce	no-more-feedback	ide-freeze				
+532772		cannot-reproduce	closed-by-reporter	java-index-corrupted	temporary-glitch			
+549168		fixed-by-new-release	test-failure	new-patch-added				
+537977		cannot-reproduce	no-more-feedback	cannot-add-external-jars				
+501708		not-a-bug	discussion-about-feature	step-into-method-debugging				
+461257		not-a-bug	temporary-glitch	disconnected-VM				
+472157		duplicate-bug	not-a-bug	already-fixed-bug	debugging-same-file-in-two-ide-copies			
+467884		not-a-bug	wrong-specs-defined	misunderstood-the-message				
+496283		not-a-bug	request-for-new-release					
+543066		not-a-bug	closed-by-reporter					
+487575		not-a-bug						
+465621		fixed-by-new-release	closed-by-reporter					
+482516		eclipse-installation-issue	32-64-bits-mixed-up					
+550679		not-a-bug						
+547464		not-a-bug	moved-to-elsewhere					

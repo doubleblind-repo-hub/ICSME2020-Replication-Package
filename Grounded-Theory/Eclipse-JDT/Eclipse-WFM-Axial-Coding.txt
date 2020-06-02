@@ -1,0 +1,103 @@
+Total keys:348
+-------------------------
+Axial categories: 19
+=========================
+
+intermittent-bug	5
+temporary-glitch	3
+did-not-happen-anymore	2
+out-of-memory-issue	2
+
+not-a-bug	64
+config-issue	24
+project-config-issue	2
+warning-message	2
+discussion-about-feature	2
+disagreement-reporter-developer	2
+
+already-fixed-bug	42
+fixed-by-new-release	29
+fixed-by-installation	26
+fixed-by-release	14
+duplicate-bug	12
+fixed-by-evolution	7
+eclipse-installation-issue	2
+old-bug	3
+
+s2r-missing	32
+missing-info	8
+testcase-expected	7
+reopen-with-s2r	6
+stacktrace-expected	5
+s2r-not-sufficient	3
+screenshot-expected	2
+
+ide-freeze	16
+eclipse-launching-issue	4
+
+wrong-specs-defined	14
+no-more-feedback	11
+not-explained	10
+
+caused-by-third-party	5
+third-party-issue	4
+
+code-completion-issue	13
+content-assist-issue	7
+code-completion-missing	6
+content-assist-related-issue	3
+quick-fix-issue	2
+code-recommender-issue	2
+quick-fix-not-working	2
+
+performance-issue	6
+performance-regression	2
+
+test-failure	11
+junit-related-issue	2
+
+refactoring-related-issue	10
+move-method-issue	4
+refactoring-not-working	4
+
+closed-by-reporter	6
+closed-by-genie	2
+
+type-resolution-issue	6
+compilation-issue	5
+lambda-related-issue	5
+import-statement-issue	2
+
+build-related-issue	4
+buildpath-related-issue	4
+JRE-not-found	3
+jdk-compliance-issue	2
+java-migration-issue	2
+
+method-definition-click	4
+eclipse-search-issue	3
+
+filed-as-a-new-bug	3
+moved-to-elsewhere	2
+
+design-choice	2
+nullable-issue	2
+black-background	2
+
+code-folding-issue	2
+code-formatting-issue	2
+
+save-failed	2
+preference-not-saved	2
+missing-icon	2
+copy-paste-issue	4
+tab-related-issue	2
+popup-issue	2
+
+
+
+
+
+
+
+
