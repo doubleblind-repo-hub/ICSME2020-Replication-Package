@@ -1,0 +1,4 @@
+Bug Report Search URL: https://bugs.eclipse.org/bugs/
+
+Example URL for Bug #534797
+https://bugs.eclipse.org/bugs/show_bug.cgi?id=534797

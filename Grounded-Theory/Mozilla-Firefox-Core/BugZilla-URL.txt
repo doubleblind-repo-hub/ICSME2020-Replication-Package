@@ -1,0 +1,4 @@
+Bug Report Search URL: https://bugzilla.mozilla.org/home
+
+Example URL for Bug #1460442
+https://bugzilla.mozilla.org/show_bug.cgi?id=1460442
